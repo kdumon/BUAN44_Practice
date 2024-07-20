@@ -17,3 +17,6 @@ hist(mtcars$mpg)
 plot(mtcars$mpg ~ mtcars$wt)
 #I did the previous exercise a second time, I added some more code below as instructed, then commit to your repository
 plot(mtcars$mpg ~ mtcars$wt)
+cor(mtcars$mpg, mtcars$wt)
+
+
